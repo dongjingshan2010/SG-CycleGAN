@@ -1,11 +1,5 @@
 # SG-CycleGAN
 This repository implements SG-CycleGAN for MRI-to-ultrasound synthesis to address data scarcity in endometrial cancer screening.
-# SG-CycleGAN: Structure-Guided Cycle-Consistent Adversarial Network for MRI-to-Ultrasound Synthesis
-
-This repository contains the official PyTorch implementation of the paper:
-
-**Efficient Endometrial Carcinoma Screening: Trained on Augmented MRI-to-Ultrasound Images Synthesized by Structure-Guided Cycle-Consistent Adversarial Network**  
-*Dongjing Shan, Jiqing Xuan, Yamei Luo, Mengchu Yang, Zeyu Chen, Fajin Lv, Yong Tang, Chunxiang Zhang*
 
 ## Overview
 
